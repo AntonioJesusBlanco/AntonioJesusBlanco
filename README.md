@@ -24,11 +24,9 @@ Trabajo como desarrollador **Full-Stack**.
 🔹 **[TheOfficeAPI](https://github.com/TU_USUARIO/TheOfficeAPI)** – API + frontend Angular  
 🔹 **[CryptoGraph](https://cryptographics.netlify.app)** – gráficas crypto en tiempo real
 
-👉 Más proyectos en mi web: **[antoniojesus.vercel.app](https://antoniojesus.vercel.app)**
-
 ---
 
 ### 📫 Contacto
 📧 **[antoniojesusblanco20@gmail.com](mailto:antoniojesusblanco20@gmail.com)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/antonio-jes%C3%BAs-blanco-guillen-27297a185/)**  
 🌐 **[Portfolio](https://antoniojesus.vercel.app)**
