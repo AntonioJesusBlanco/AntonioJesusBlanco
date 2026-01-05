@@ -21,7 +21,7 @@ Trabajo como desarrollador **Full-Stack**.
 
 ### 🧩 Proyectos
 🔹 **[Analizador Web (TFG)](https://analizador-web.vercel.app)** – métricas y rendimiento web  
-🔹 **[TheOfficeAPI](https://github.com/TU_USUARIO/TheOfficeAPI)** – API + frontend Angular  
+🔹 **[TheOfficeAPI](https://theofficeapi-production.up.railway.app/)** – API de la serie de The Office  
 🔹 **[CryptoGraph](https://cryptographics.netlify.app)** – gráficas crypto en tiempo real
 
 ---
